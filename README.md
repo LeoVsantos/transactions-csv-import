@@ -1,10 +1,11 @@
 # Transactions Finances
 
-# Backend Simples + Utilizando os melhores conceitos da progração.
+# Backend GoFinances
 
  * TypeORM para trabalhar com banco de dados relacional, PostgreSQL.
  * Relacionamento de categoras.
  * Entrada (Income) e Saida (outcome) de valores + balance de finanças. 
- * Leitura de arquivos CSV de Finanças para importação no banco de dados.
+ * Leitura de arquivos CSV de para importação das finanças no banco de dados.
  
-**Projetos simples para fins de aprendizado**
+**Projetos para fins de aprendizado**
+
